@@ -64,7 +64,7 @@ To run this project locally:
 ---
 
 ## **Results**
-- The Perceptron model achieved an accuracy of **X%** (replace with actual accuracy) on the test set.
+- The Perceptron model achieved an accuracy of **93%** (replace with actual accuracy) on the test set.
 - Decision boundaries were visualized to interpret how features influence placement predictions.
 
 ---
